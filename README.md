@@ -1,14 +1,18 @@
 # OSTB Series 1 - the Spiros Series
 This repository, part of Open Source Tuberculosis (OSTB) is about OSTB's first series of molecules. The data in this repository are being combined with closed data generated at GSK Tres Cantos and being written up for publication.
 
-Social media updates will go on [Twitter](https://twitter.com/opensourcetb). OSTB can also be emailed: opensourcetb@gmail.com.
+Social media updates will go on [Twitter](https://twitter.com/opensourcetb). The best way to be in touch is to post an Issue (link above). OSTB can be emailed: opensourcetb@gmail.com.
+
+For more background to what OSTB is, head to the [General-Start-Here repository](https://github.com/OpenSourceTB/OSTB_General_Start_Here).
 
 
 *Key resources*:
 
-The story of where we are, and links to other online resources, is described in the wiki (link above).
+The story of where we are in Series 1, and links to other online resources, is described in the wiki (link above).
 
-Resources to do with the series (files, reports etc) may be found here, in the shared file system.
+Resources to do with the series (files, reports etc) may be found on this page, above, in the shared file system.
+
+Discussion takes place in the Issues (link above), which are closed when done.
 
 The spreadsheet of all Series 1 molecules may be found in the [OSTB Molecule Master List](http://tinyurl.com/OSTBCompounds)
 
